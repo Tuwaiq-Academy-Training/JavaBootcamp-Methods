@@ -23,4 +23,7 @@ Display a menu to the user that’s contains the following options:
 
 The program must accept two numbers and operation from the user 
 
-Provide option to exit calculator program, if user wants to exit. 
+Provide option to exit calculator program, if user wants to exit
+
+use methods
+
